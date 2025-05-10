@@ -1,4 +1,4 @@
-# Welcome to your Lovable# RoboGenius Lab
+# RoboGenius Lab
 
 ## Project Overview
 
